@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isaac Dexter</h1>
 <h3 align="center">A Level-4 Games Programming student from Stoke-On-Trent</h3>
 
-- 🔭 I’m currently working on [Pacman](https://github.com/d015349l/Pacman)
+- 🔭 I’m currently working on [helloGL](https://github.com/isaacdexter/Program5_helloGL), which is a 3D rendering program built in OpenGL and FreeGLUT. I'm also working on [mario](https://github.com/IsaacDexter/MarioBaseProject), which is a clone of the Mario Bros. arcade game.
 
-- 🌱 I’m currently learning **Games Programming with C++**
+- 🌱 I’m currently learning **Games Programming with C++**, specifically focusing on 3D rendering and 2D games.
 
-- 👨‍💻 All of my projects are available at [https://github.com/d015349l?tab=repositories](https://github.com/d015349l?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/isaacdexter?tab=repositories](https://github.com/isaacdexter?tab=repositories)
 
 - 💬 Ask me about **Networking in UE4 with steam, or over LAN.**
 
@@ -14,6 +14,8 @@
 - 🌐 Check out my website at [https://isaacdexter.github.io](https://isaacdexter.github.io)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R4bIJH9FVijgQR5JgyX1ov90PV1ddCad/view?usp=sharing](https://drive.google.com/file/d/1R4bIJH9FVijgQR5JgyX1ov90PV1ddCad/view?usp=sharing)
+
+- 🐦 I talk about games on my [Professional Twitter](https://twitter.com/Isaac_W_Dexter). I also talk about music on my [Personal Twitter](https://twitter.com/IsaacDexter_).
 
 - ⚡ Fun fact **I love playing the drums almost as much as I love to code (a lot)**
 
