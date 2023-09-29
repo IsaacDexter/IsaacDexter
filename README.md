@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isaac Dexter</h1>
 <h3 align="center">A Level-6 Games Programming student from Stoke-On-Trent</h3>
 
-[//] #: (- 🔭 I’m currently working on [helloGL](https://github.com/isaacdexter/Program5_helloGL), which is a 3D rendering program built in OpenGL and FreeGLUT. I'm also working on [mario](https://github.com/IsaacDexter/MarioBaseProject), which is a clone of the Mario Bros. arcade game.)
-
 - 🌱 I’m currently learning **DirectX 12**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaacdexter?tab=repositories](https://github.com/isaacdexter?tab=repositories)
