@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Isaac Dexter</h1>
-<h3 align="center">A Level-4 Games Programming student from Stoke-On-Trent</h3>
+<h3 align="center">A Level-6 Games Programming student from Stoke-On-Trent</h3>
 
-- 🔭 I’m currently working on [helloGL](https://github.com/isaacdexter/Program5_helloGL), which is a 3D rendering program built in OpenGL and FreeGLUT. I'm also working on [mario](https://github.com/IsaacDexter/MarioBaseProject), which is a clone of the Mario Bros. arcade game.
+[//] #: (- 🔭 I’m currently working on [helloGL](https://github.com/isaacdexter/Program5_helloGL), which is a 3D rendering program built in OpenGL and FreeGLUT. I'm also working on [mario](https://github.com/IsaacDexter/MarioBaseProject), which is a clone of the Mario Bros. arcade game.)
 
-- 🌱 I’m currently learning **Games Programming with C++**, specifically focusing on 3D rendering and 2D games.
+- 🌱 I’m currently learning **DirectX 12**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaacdexter?tab=repositories](https://github.com/isaacdexter?tab=repositories)
 
@@ -13,9 +13,9 @@
 
 - 🌐 Check out my website at [https://isaacdexter.github.io](https://isaacdexter.github.io)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R4bIJH9FVijgQR5JgyX1ov90PV1ddCad/view?usp=sharing](https://drive.google.com/file/d/1R4bIJH9FVijgQR5JgyX1ov90PV1ddCad/view?usp=sharing)
+- 📄 See my [resume](https://docs.google.com/document/d/e/2PACX-1vRVIXV5KQ0P_dTeSegqeQqrUhfwy6Pf3ZZgioPZx9cK9i5uwm0KptKYElo2Fo3uxX8dVVGkeqGT-JwW/pub)
 
-- 🐦 I talk about games on my [Professional Twitter](https://twitter.com/Isaac_W_Dexter). I also talk about music on my [Personal Twitter](https://twitter.com/IsaacDexter_).
+- 🐦 I talk about games on my [Professional Twitter](https://twitter.com/Isaac_W_Dexter).
 
 - ⚡ Fun fact **I love playing the drums almost as much as I love to code (a lot)**
 
@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/isaac_w_dexter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaac_w_dexter" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isaac-dexter-aa1818224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-dexter-aa1818224" height="30" width="40" /></a>
-<a href="https://fb.com/100072667170615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100072667170615" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
