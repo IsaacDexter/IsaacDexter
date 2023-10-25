@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **DirectX 12**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/isaacdexter?tab=repositories](https://github.com/isaacdexter?tab=repositories)
+- 🎃 I just completed [**TP**](https://bonitaworalert.itch.io/tp) for [**Scream Jam 2023**](https://itch.io/jam/scream-jam-2023)
 
-- 💬 Ask me about **Networking in UE4 with steam, or over LAN.**
+- 👨‍💻 All of my projects are available [here](https://github.com/isaacdexter?tab=repositories)
+
+- 💬 Ask me about my dissertation on **Impossible Spaces in DirectX 12**
 
 - 📫 How to reach me **isaacdexter@gmail.com**
 
