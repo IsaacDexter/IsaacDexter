@@ -15,7 +15,7 @@
 
 - 🐦 I talk about games on my [Professional Twitter](https://twitter.com/Isaac_W_Dexter).
 
-- ⚡ Fun fact **I love playing the drums almost as much as I love to code (a lot)**
+- ⚡ Hobbies **I love falconry, drumming, climbing, British Folklore and TTRPGs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
